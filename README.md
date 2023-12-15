@@ -3,7 +3,7 @@ Module 14 Challenge for RICE FinTech Assignment
 
 ## Conclusion
 
-In the challenge we were given the opportunity to train a bot through machine learning method. The initial strategy returns graph displayed poor performing returns. However, when we were able to introduce the trading algorithm and then eventually tune the parameters, the returns improved significantly. Bots can be a valuable tool once the trading algorithm trained and finely tuned. 
+In this challenge we were given the opportunity to train a bot through the machine learning method. The initial strategic returns graph displayed a poor performing result. However, when we were able to introduce the trading algorithm and then tune the parameters, the returns improved significantly. In conclusion, bots can be a valuable tool once the model trained,tested, and finely tuned. 
 
 ![Challenge_14_Strategy_Returns](https://github.com/apeontherun/Module_14_Challenge/assets/28538519/6e230ae5-edae-4ad6-8910-564e81104129)
 
