@@ -15,9 +15,18 @@ Module 14 Challenge for RICE FinTech Assignment
 
 As the training windows were increased it seem to have a better result where the strategic returns and actual returns where almost identical.
 
+![Challenge_14_Strategy_Returns v Actual Returns 6mths](https://github.com/apeontherun/Module_14_Challenge/assets/28538519/1ffeb07c-2672-4bcf-97a9-92368b5691aa)
+
+![Challenge_14_Strategy_Returns v Actual Returns 12mths](https://github.com/apeontherun/Module_14_Challenge/assets/28538519/8dc81a7e-6ffd-4a14-b96c-59d1c6e43295)
+
+
 ### What impact from increasing or decreasing both of the SMA windows?
 
 As SMA windows were increased it seemed to have a better results where the strategic returns and actual returns where almost identical.
+
+![Challenge_14_Strategy_Returns v Actual Returns SlowSMA200](https://github.com/apeontherun/Module_14_Challenge/assets/28538519/589ceee3-2e24-4bcc-83dc-e9f582438217)
+
+![Challenge_14_Strategy_Returns v Actual Returns FastSMA50 SlowSMA800](https://github.com/apeontherun/Module_14_Challenge/assets/28538519/b1d91721-5c52-4b82-8c46-dcf5e35e73ec)
 
 ## Summary Evaluation
 
