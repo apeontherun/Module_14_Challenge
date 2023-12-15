@@ -30,6 +30,16 @@ As SMA windows were increased it seemed to have a better results where the strat
 
 ## Summary Evaluation
 
+Overall the models proved to have desired results, where the new model had major drop at the end the selected period.  But through adjustments of the SMA and trading window could improve the overal performance.
+
+### Did the new model perform better or worse than the provided baseline model?
+
+Based on the results the new logisticregression model performed in a similar massion when the came to precision test. However, the recall test was better for -1.0 and worse for 1.0.  The overall the strategic returns performed initial than the baseline model until the end of selected timeframe, then the strategic returns dropped significantly. Models seemed to have similar outcomes with baseline having a period of time where the actual returns and strategic returns where very similar.  
+
+### Did this new model perform better or worse than the your tuned trading algorithm?
+
+The new model performed worse than teh tuned trading algorithm.  The best tuned trading algorithm the actual and strategic returns where identical.  
+
 ### SVM Model
 ![Challenge_14_Strategy_Returns v Actual Returns 1](https://github.com/apeontherun/Module_14_Challenge/assets/28538519/f7d5bdaa-84b1-4fd0-a68a-b91991cabbb9)
 
